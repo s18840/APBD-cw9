@@ -309,13 +309,13 @@ namespace LinqConsoleApp
         /// </summary>
         public void Przyklad10Button_Click()
         {
-
+            
         }
 
         //Znajdź pracownika z najwyższą pensją wykorzystując metodę Aggregate()
         public void Przyklad11()
         {
-
+            //var resSql11 = Emps.Aggregate(()=>);
         }
 
         //Z pomocą języka LINQ i metody SelectMany wykonaj złączenie
